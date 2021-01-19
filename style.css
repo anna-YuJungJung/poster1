@@ -151,7 +151,7 @@
        #p5{
          width: 40vw;
          margin:40px;
-         background-height: 50vh;
+      
          color: white;
           text-align: left;
           padding:15px;
@@ -182,23 +182,23 @@
         
         
        #p{
-          align:right;
+          box-align:right;
           background-color: black
           text-indent:35px;
-          width: 40vw;
+          width:40vw;
           margin:40px;
           height: 50vh;
           color: white;
-          text-align: left;
+          text-align:left;
           padding:15px;
-          background-size: cover;
-          background-position: center;
+          background-size:cover;
+          background-position:center;
           box-shadow: 1px 2px 12px 12px rgba(0, 0, 255, .2);
-        word-wrap: break-word;
+        word-wrap:break-word;
       
-       align=left 
+       align:left 
        
-       style=”float:left” 
+       style:float:left
        
       
       }
